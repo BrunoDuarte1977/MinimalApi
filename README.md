@@ -3,7 +3,7 @@
 ### .NET 7.0 
 ### Mysql 
 ### Entity Framework
-
+### JWT
 
 ### AWS
 Caminho da publicação:\
